@@ -1,1 +1,1 @@
-Άρθρα για τη γλώσσα προγραμματισμού για Ruby για το http://www.greektuts.net
+Άρθρα για τη γλώσσα προγραμματισμού Ruby για το http://www.greektuts.net
